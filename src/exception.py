@@ -1,5 +1,6 @@
 import sys
 import logging
+from src.logger import logging
 
 def error_message_detail(error, error_detail:sys):
     # returns 3 values the 1st 2 are not necessary
