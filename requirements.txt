@@ -5,6 +5,7 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
 # -e .
 # pip install -r rqequirements.txt
 # uncomment -e . when you build packages at the end of the project
